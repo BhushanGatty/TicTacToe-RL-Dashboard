@@ -8,6 +8,9 @@ This project demonstrates how a Reinforcement Learning (RL) agent can learn opti
 - **Architecture**: A `State` manager, a `Judger` for game rules, and a `Player` agent that updates its state-value estimations (`estimations`).
 - **Convergence**: After 100,000 epochs of training, the agent achieves near-perfect play, where games between two optimal agents consistently result in a tie.
 
+## Dashboard Preview
+<img width="1548" height="757" alt="Screenshot 2026-06-03 003428" src="https://github.com/user-attachments/assets/eb89f49b-fb99-4a5a-b620-8413f8260992" />
+
 ## 📊 Features
 - **Interactive Dashboard**: A custom HTML/JS/CSS dashboard rendered directly in Colab.
 - **Real-time KPI Tracking**: Monitor training epochs, win rates, and total states explored (5,478 unique states).
