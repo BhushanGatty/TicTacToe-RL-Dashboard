@@ -40,8 +40,7 @@ Where:
 - $V(s')$ is the estimation of the next state.
 
 ## 📁 Repository Structure
-- `tic_tac_toe_rl.ipynb`: The primary notebook containing logic and UI.
-- `policy_first.bin`: Trained weights for the first player.
-- `policy_second.bin`: Trained weights for the second player.
+- `TD_Learning_TicTacToe.ipynb`: The primary notebook containing logic and UI.
+- `Dashboard.ipynb`: To visualize the game play.
 
 --- 
